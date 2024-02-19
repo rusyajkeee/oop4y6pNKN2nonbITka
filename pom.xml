@@ -52,7 +52,7 @@
                         <exclude>
                             <groupId>org.projectlombok</groupId>
                             <artifactId>lombok</artifactId>
-                        </exclude> zzz ya russkiy
+                        </exclude>
                     </excludes>
                 </configuration>
             </plugin>
